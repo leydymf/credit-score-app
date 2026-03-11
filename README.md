@@ -1,5 +1,4 @@
-# CreditVision — Credit Score Prediction with ANN
-
+# CreditVision 
 CreditVision es una aplicación de **evaluación de riesgo crediticio** desarrollada con **Streamlit** que utiliza una **Red Neuronal Artificial (ANN)** combinada con **reducción de dimensionalidad mediante PCA** para clasificar el perfil financiero de un cliente en tres categorías de riesgo.
 
 La aplicación permite ingresar variables financieras reales del cliente y obtener una **predicción del Credit Score en tiempo real**.
